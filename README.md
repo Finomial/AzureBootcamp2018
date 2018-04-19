@@ -6,7 +6,7 @@ Q1 - When shall I report at the venue?
 Ans - You should be reporting at the venue sharp by 9:00 am. Here's the direction to the venue - https://goo.gl/maps/Zs97wxnTkqz
 
 Q2 - My friend hasn't registered for the event but is interested to come? 
-Ans - Registrations are full now but we've opened up a wait-list. Partcipants registering now will receive a confirmation email based on avaialbility.
+Ans - Registrations are full now but we've opened up a wait-list. Partcipants registering now will receive a confirmation email based on availability.
 
 Q3 - Is it mandatory to bring a laptop? 
 Ans - Though it's not mandatory to carry a laptop but we advise you to carry one. You could also share one with another partcipant during the hands-on labs.
@@ -21,4 +21,4 @@ Q6 - What skills do I need to attend the event?
 Ans - Basic programming skills should be enough. We would try to ensure that the sessions and hands-on are designed keeping in mind participants of all levels.
 
 Q6 - Will I receive a certification at the end of the event? 
-Ans - We won't be issuing any certificates for attending the event. However, participating in the event means you leave with a lot of hands-on experience.
+Ans - We won't be issuing any certificates for attending the event. However, participating in the event means you leave with a lot of invaluable experience.
