@@ -1,3 +1,4 @@
+https://shell.azure.com
 
 az resource list --query "[].{ resource: name, service: kind }" | grep resource
 az group list
