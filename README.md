@@ -3,6 +3,7 @@
 RESOURCES
 
 * Speech API: https://github.com/krishnamhn009/Azure.SpeechToText
+* Movie Maker Demo: https://github.com/sensubrata/moviemaker-demo
 
 Read the FAQ -
 
