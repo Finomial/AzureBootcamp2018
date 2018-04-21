@@ -1,5 +1,9 @@
 # AzureBootcamp2018
 
+RESOURCES
+
+* Speech API: https://github.com/krishnamhn009/Azure.SpeechToText
+
 Read the FAQ -
 
 Q1 - When shall I report at the venue? 
